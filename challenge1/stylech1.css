@@ -1,0 +1,15 @@
+.hp {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(19, 19, 73);
+}
+#pott {
+  width: 50%;
+  height: 50%;
+  margin-right: auto;
+  margin-left: auto;
+
+  padding-top: 5%;
+  padding-left: 5%;
+  object-fit: coverS;
+}

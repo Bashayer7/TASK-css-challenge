@@ -1,9 +1,17 @@
 /* Add your code in each class */
 body {
+  background-color:black;
 }
 .container {
 }
 .movie-card {
+  .center 
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
 }
 .movie-image {
 }
